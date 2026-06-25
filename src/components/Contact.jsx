@@ -36,7 +36,7 @@ const Contact = () => {
 
       {/* Instagram */}
       <a
-        href="https://instagram.com/yourprofile"
+        href="https://instagram.com/mazaheer_"
         target="_blank"
         rel="noopener noreferrer"
         className="text-white hover:text-pink-500 transform hover:scale-110 transition-all duration-150"
